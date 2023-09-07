@@ -8,28 +8,28 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@chakra-ui/react": "*",
-    "@emotion/cache": "*",
-    "@emotion/react": "*",
-    "@emotion/server": "*",
-    "@emotion/styled": "*",
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/cache": "^11",
+    "@emotion/react": "^11",
+    "@emotion/server": "^11",
+    "@emotion/styled": "^11",
     "@remix-run/css-bundle": "*",
     "@remix-run/node": "*",
     "@remix-run/react": "*",
     "@remix-run/serve": "*",
-    "framer-motion": "*",
-    "isbot": "*",
-    "react": "*",
-    "react-dom": "*"
+    "framer-motion": "^6",
+    "isbot": "^3.6.13",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@remix-run/dev": "*",
     "@remix-run/eslint-config": "*",
-    "@types/react": "*",
-    "@types/react-dom": "*",
-    "eslint": "*",
-    "prettier": "*",
-    "typescript": "*"
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "eslint": "^8.47.0",
+    "prettier": "^3.0.2",
+    "typescript": "^5.1.6"
   },
   "engines": {
     "node": ">=16.0.0"
